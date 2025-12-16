@@ -1,7 +1,7 @@
-# Python Learning  - 1991 (server -side :- high level language)
+Python Learning  - 1991 (server -side :- high level language)
 
 
-Official site - https://www.python.org/
+Official Docs  -  https://www.python.org/
 
 
 Where pythin used for : - 
@@ -14,35 +14,12 @@ IDE for Python :
                  
 
 
-
-
-Syllabus Of Python
--------------------
+#### Syllabus Of Python
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-Python Framework
-------------------
-
-
-
-
-
-Python Projects
-----------------
-
+#### Python Framework
 
 
 
