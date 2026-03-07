@@ -21,6 +21,10 @@ IDE for Python :
 
 #### Python Framework
 
+      - Desktop GUI
+      - Flask
+      - Django
+
 
 
 
