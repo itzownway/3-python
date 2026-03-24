@@ -12,7 +12,6 @@ Check the MongoDB Version
 
    - ss -tulnp | grep 27017  --> Check if MongoDB is listening
 
-
    
 
 
