@@ -62,13 +62,21 @@ Project Guide
 
     
 ### How to Setup and Start the Project To Work
+
+
+    - MongoDB 
+
+       - sudo systemctl status mongod
+
+       - sudo systemctl start mongod
      
     - Frontend 
 
-          - cd frontend 
+          - cd frontend
+          - npm install 
           - npm run dev 
 
-          - open browser :- http://localhost:5174/      # verify if it is working or not 
+          - open browser :- http://localhost:5174/   | http://localhost:5173/   # verify if it is working or not 
 
           - Always check the Console and Network tabs for any issues.
           
@@ -76,6 +84,9 @@ Project Guide
     - Backend 
        
           - cd backend
+          - sudo apt install python3-venv
+          - source venv/bin/activate
+          - pip install -r requirements.txt
           - python3 app.py        
 
 
