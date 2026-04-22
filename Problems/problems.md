@@ -25,6 +25,9 @@
  - Count digits
  - GCD
  - LCM
+ - Anagram check 
+ - Panagram check 
+ 
 
 
 ### FUNCTIONS & RECURSION
@@ -59,6 +62,8 @@
  - Word count in sentence
  - Longest word in string
  - Replace character
+ - Replace vowels with * in a String 
+ - 
 
 
 ### Program On Array 
